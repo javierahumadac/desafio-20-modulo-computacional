@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "nombre": "Javier Ahumada",
+        "carrera": 1,
+        "preferencias": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 0,
+        "nombre": "Santiago Lopez",
+        "carrera": 1,
+        "preferencias": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 0,
+        "nombre": "Cristian Vega",
+        "carrera": 1,
+        "preferencias": [
+            1,
+            2,
+            3
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "carreras": [
+            1,
+            2
+        ],
+        "estudiantes": []
+    },
+    {
+        "id": 2,
+        "carreras": [
+            1,
+            2
+        ],
+        "estudiantes": []
+    },
+    {
+        "id": 3,
+        "carreras": [
+            1,
+            2
+        ],
+        "estudiantes": []
+    },
+    {
+        "id": 4,
+        "carreras": [
+            1,
+            2
+        ],
+        "estudiantes": []
+    }
+]

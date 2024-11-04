@@ -1,0 +1,992 @@
+{
+    "estudiantes": [
+        {
+            "Nombre": "Matias Ignacio Ayala Nanjari",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones."
+            ]
+        },
+        {
+            "Nombre": "Ignacio Andrés Araya Salinas",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones."
+            ]
+        },
+        {
+            "Nombre": "Camila Fernanda Guerrero Bustamante",
+            "Carrera": "Construcción Civil",
+            "Postulaciones": [
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+                "Diseño y manufactura de prototipo industrial de un equipo térmico que utilice Hidrógeno como combustible, economicamente viable para la industria chilena."
+            ]
+        },
+        {
+            "Nombre": "Simón Josías Cristóbal Álvarez Díaz",
+            "Carrera": "Otras",
+            "Postulaciones": [
+                "Mobile Water Quality Monitoring for Offshore Fish Farms",
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional"
+            ]
+        },
+        {
+            "Nombre": "Fernanda Ivonne Viera Castillo    ",
+            "Carrera": "Construcción Civil",
+            "Postulaciones": [
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+                "Creación Modelo Revenue Management Menaje Easy",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "Manuel Cruces Pirce",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Plataforma Educacional (LMS) para Coding Dojo Latam",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales."
+            ]
+        },
+        {
+            "Nombre": "Carlos Alfredo Cea Rios",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Electric Vehicle as a Service (EVaaS)",
+                "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales."
+            ]
+        },
+        {
+            "Nombre": "Miguel Cabezas",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional",
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Georeferenciación y Normalización de Direcciones"
+            ]
+        },
+        {
+            "Nombre": "Valentina Paz Lobos Páez",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "¿Como aprovechar la IA para facilitar la actividad de los profesores en la educación de nuestro pais?",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional"
+            ]
+        },
+        {
+            "Nombre": "Diego Escobar",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Modulación digital de flujos de procesos enológicos de vendimia",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "Juan Pablo Oyanedel",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Modulación digital de flujos de procesos enológicos de vendimia",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional",
+                "Modelo de Predicción y Correlación - Clima HR Analytics"
+            ]
+        },
+        {
+            "Nombre": "Wuendy Arlyns Arriagada Catacora",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Modelo de control de consumo EPP y ropa de trabajo para la circularidad de elementos en desuso",
+                "Modulación digital de flujos de procesos enológicos de vendimia",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional"
+            ]
+        },
+        {
+            "Nombre": "Brian Montero",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Electric Vehicle as a Service (EVaaS)",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA.",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Felipe Marquez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Plataforma Configurable de Interfaz para Dispositivos de Telemetría en WOLKE",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+                "Electric Vehicle as a Service (EVaaS)"
+            ]
+        },
+        {
+            "Nombre": "Francisco Lopez Figueroa",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Mobile Water Quality Monitoring for Offshore Fish Farms",
+                "Electric Vehicle as a Service (EVaaS)",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Karolain Yarely Cabrera Cabrera",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Mobile Water Quality Monitoring for Offshore Fish Farms",
+                "Electric Vehicle as a Service (EVaaS)",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Gabriela González",
+            "Carrera": "Ingeniería en Diseño de Productos",
+            "Postulaciones": [
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+                "Electric Vehicle as a Service (EVaaS)",
+                "Modulación digital de flujos de procesos enológicos de vendimia"
+            ]
+        },
+        {
+            "Nombre": "cristhian Urra Aldunate",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Mobile Water Quality Monitoring for Offshore Fish Farms",
+                "Sistema de posicionamiento de robot submarino en jaula de cultivo mediante telemetría y estéreo visión.",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro"
+            ]
+        },
+        {
+            "Nombre": "Juan del Valle",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+                "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones.",
+                "Clasificación de imágenes de mamografía usando Machine Learning"
+            ]
+        },
+        {
+            "Nombre": "Catalina Angélica Ulloa Fritz",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones."
+            ]
+        },
+        {
+            "Nombre": "Agustin Nicolas Ovando Saenz",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Gonzalo Soto Ulloa",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Sebastian Jara",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Benjamin Pino Olivares",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+                "Desarrollo de un Software para Automatizar Operaciones de Análisis de Genómica Funcional en Hongos"
+            ]
+        },
+        {
+            "Nombre": "Claudio Blas Arnaldo Santana Dominguez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Quantum Challengue: Simular en un computador cuántico el comportamiento QKD en Base a Protocolo BB84.",
+                "Atlas/Bitácora de Casos Oncológicos Complejos",
+                "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego."
+            ]
+        },
+        {
+            "Nombre": "Matías Yamil Soto Sepúlveda",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones.",
+                "Sistema de Localización en Tiempo Real (RTLS) de pacientes dentro de una clínica basado en machine learning",
+                "Caracterización del canal inalámbrico empleando tecnología IoT"
+            ]
+        },
+        {
+            "Nombre": "Battá Tomás Tuki Cadenas",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Georeferenciación y Normalización de Direcciones"
+            ]
+        },
+        {
+            "Nombre": "Nicolás Eduardo Salas Barrantes",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "People Analytics - Talento y Desarrollo",
+                "Georeferenciación y Normalización de Direcciones"
+            ]
+        },
+        {
+            "Nombre": "Javiera Díaz Mesina",
+            "Carrera": "Ingeniería Comercial",
+            "Postulaciones": [
+                "People Analytics - Talento y Desarrollo",
+                "Diseño y manufactura de prototipo industrial de un equipo térmico que utilice Hidrógeno como combustible, economicamente viable para la industria chilena."
+            ]
+        },
+        {
+            "Nombre": "Mariapaz Gómez Godoy",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "¿Como aprovechar la IA para facilitar la actividad de los profesores en la educación de nuestro pais?"
+            ]
+        },
+        {
+            "Nombre": "Benjamín Nicolás Miranda Muñoz",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Plataforma Educacional (LMS) para Coding Dojo Latam",
+                "Modulación digital de flujos de procesos enológicos de vendimia",
+                "People Analytics - Talento y Desarrollo"
+            ]
+        },
+        {
+            "Nombre": "Thomas Soto",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Atlas/Bitácora de Casos Oncológicos Complejos"
+            ]
+        },
+        {
+            "Nombre": "Nicolás Andrés Ruiz Ruiz",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro"
+            ]
+        },
+        {
+            "Nombre": "Vicente Ignacio Carreño Escobar",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro"
+            ]
+        },
+        {
+            "Nombre": "Marcelo Andre Garcia Ramos",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollo de un Software para Automatizar Operaciones de Análisis de Genómica Funcional en Hongos",
+                "Plataforma Educacional (LMS) para Coding Dojo Latam",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro"
+            ]
+        },
+        {
+            "Nombre": "FARID DÍAZ",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollo de un Software para Automatizar Operaciones de Análisis de Genómica Funcional en Hongos",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "Cristian Vega",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "Sistema de Localización en Tiempo Real (RTLS) de pacientes dentro de una clínica basado en machine learning",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "Fabian Esteban Godoy Casas",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollo de un Software para Automatizar Operaciones de Análisis de Genómica Funcional en Hongos",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro"
+            ]
+        },
+        {
+            "Nombre": "Santiago Lopez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "Modelo de Predicción y Correlación - Clima HR Analytics"
+            ]
+        },
+        {
+            "Nombre": "Ariel Bravo Ponce",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA.",
+                "Clasificación de imágenes de mamografía usando Machine Learning"
+            ]
+        },
+        {
+            "Nombre": "Gianfranco Rolla Teneos",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "Rutas de inspección visual del espacio público urbano",
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad"
+            ]
+        },
+        {
+            "Nombre": "Jeremy Andrew Joy Immediato",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Administrador de Diccionarios de Datos",
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data"
+            ]
+        },
+        {
+            "Nombre": "Vania Schatloff",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "Vicente Alvear",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+                "Modelo de Predicción y Correlación - Clima HR Analytics"
+            ]
+        },
+        {
+            "Nombre": "Cristóbal Antonio Nilo Garrido",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Rutas de inspección visual del espacio público urbano",
+                "Mapeo de zonas rojas de apps de delivery",
+                "Uso de LLMs para masificar la explotación de datos en Falp"
+            ]
+        },
+        {
+            "Nombre": "Vicente Andrés Llanos Álvarez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Mapeo de zonas rojas de apps de delivery",
+                "Rutas de inspección visual del espacio público urbano"
+            ]
+        },
+        {
+            "Nombre": "Felipe Williams Francisco Rodriguez Rodriguez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Mapeo de zonas rojas de apps de delivery",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Plataforma Educacional (LMS) para Coding Dojo Latam"
+            ]
+        },
+        {
+            "Nombre": "Jorge Antonio Rojas Huaiquimilla",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Rutas de inspección visual del espacio público urbano",
+                "Mapeo de zonas rojas de apps de delivery",
+                "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad"
+            ]
+        },
+        {
+            "Nombre": "Fabián Elías Soto morales",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "hsien-i lee",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "Constanza Javiera Corday Loayza",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Modelo de Predicción y Correlación - Clima HR Analytics",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "Martín Alejandro Rojas Moya",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Modelo de Predicción y Correlación - Clima HR Analytics",
+                "Mapeo de zonas rojas de apps de delivery"
+            ]
+        },
+        {
+            "Nombre": "Alexander Alfaro",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Administrador de Diccionarios de Datos",
+                "Plataforma Configurable de Interfaz para Dispositivos de Telemetría en WOLKE",
+                "Rutas de inspección visual del espacio público urbano"
+            ]
+        },
+        {
+            "Nombre": "Mauricio Ignacio Carvajal Andrade",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Rutas de inspección visual del espacio público urbano",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Sistema para la limpieza automatizada de riel de Tripper minero"
+            ]
+        },
+        {
+            "Nombre": "Sergio Rojas Escanilla",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA.",
+                "Atlas/Bitácora de Casos Oncológicos Complejos",
+                "Clasificación de imágenes de mamografía usando Machine Learning"
+            ]
+        },
+        {
+            "Nombre": "Jonathan Ignacio Abraham Pedraza Valdebenito",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "Julio Aníbal Maturana Solís",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Sistema de Localización en Tiempo Real (RTLS) de pacientes dentro de una clínica basado en machine learning",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "JUAN PATRICIO ARDILES CASTILLO",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA."
+            ]
+        },
+        {
+            "Nombre": "Cristhofer Brian Ruben Araya Recabarren",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Administrador de Diccionarios de Datos",
+                "Plataforma Configurable de Interfaz para Dispositivos de Telemetría en WOLKE",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud"
+            ]
+        },
+        {
+            "Nombre": "José Ignacio Alegría Vergara",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Modelo de Predicción y Correlación - Clima HR Analytics"
+            ]
+        },
+        {
+            "Nombre": "Marcelo Esteban Díaz Moya",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Modelo de Predicción y Correlación - Clima HR Analytics"
+            ]
+        },
+        {
+            "Nombre": "Benjamín Rodrigo Aros Báez",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Uso de LLMs para masificar la explotación de datos en Falp",
+                "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+                "Normalizacion de Datos Categóricos"
+            ]
+        },
+        {
+            "Nombre": "Javier Ahumada",
+            "Carrera": "Ingeniería Civil Telemática",
+            "Postulaciones": [
+                "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+                "Clasificación de imágenes de mamografía usando Machine Learning",
+                "¿Como aprovechar la IA para facilitar la actividad de los profesores en la educación de nuestro pais?"
+            ]
+        },
+        {
+            "Nombre": "Benjamin Vicuña",
+            "Carrera": "Ingeniería Civil Industrial",
+            "Postulaciones": [
+                "People Analytics - Talento y Desarrollo",
+                "Mejorar la experiencia de entrega a cliente a Nivel Nacional",
+                "Modelo de control de consumo EPP y ropa de trabajo para la circularidad de elementos en desuso"
+            ]
+        }
+    ],
+    "desafios": [
+        {
+            "Titulo": "SimCity: Creando una simulación 3D de la ciudad para el estudio de fenómenos naturales.",
+            "Carreras": [
+                "Arquitectura",
+                "Ingeniería Civil Ambiental",
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Mejorar la experiencia de entrega a cliente a Nivel Nacional",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Electric Vehicle as a Service (EVaaS)",
+            "Carreras": [
+                "Ingeniería Civil Eléctrica",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Mobile Water Quality Monitoring for Offshore Fish Farms",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Creación Modelo Revenue Management Menaje Easy",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Monitoreo de rendimiento para jugadores de rugby con tecnología LoRaWan para recopilación de datos y simulación de juego.",
+            "Carreras": [
+                "Ingeniería Civil Eléctrica",
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Caracterización del canal inalámbrico empleando tecnología IoT",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Sistema de posicionamiento de robot submarino en jaula de cultivo mediante telemetría y estéreo visión.",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Escalamiento de métodos de visión artificial para caracterización de biomasa, salud y proceso de alimentación de salmones.",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Georeferenciación y Normalización de Direcciones",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Ambiental",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Diseño y manufactura de prototipo industrial de un equipo térmico que utilice Hidrógeno como combustible, economicamente viable para la industria chilena.",
+            "Carreras": [
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Mecánica",
+                "Ingeniería Civil Química",
+                "Otras",
+                "Ingeniería Civil Ambiental",
+                "Ingeniería Comercial"
+            ]
+        },
+        {
+            "Titulo": "¿Como aprovechar la IA para facilitar la actividad de los profesores en la educación de nuestro pais?",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "People Analytics - Talento y Desarrollo",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Miido - tecnología para optimizar el uso de fertilizantes en agro",
+            "Carreras": [
+                "Ingeniería Civil Ambiental",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "OptiDataLake: Plataforma de Gestión y Análisis de Market Data",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Quantum Challengue: Simular en un computador cuántico el comportamiento QKD en Base a Protocolo BB84.",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Desarrollo de un Software para Automatizar Operaciones de Análisis de Genómica Funcional en Hongos",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Química",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Mapeo de zonas rojas de apps de delivery",
+            "Carreras": [
+                "Arquitectura",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Rutas de inspección visual del espacio público urbano",
+            "Carreras": [
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Desarrollo de un modelo avanzado para la identificación y evaluación de métricas específicas basadas en el impacto cefálico y la kinésica Infantil en Niños con TEA.",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Plataforma Configurable de Interfaz para Dispositivos de Telemetría en WOLKE",
+            "Carreras": [
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Modelo de Predicción y Correlación - Clima HR Analytics",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería Comercial",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Modulación digital de flujos de procesos enológicos de vendimia",
+            "Carreras": [
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Plataforma Educacional (LMS) para Coding Dojo Latam",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Normalizacion de Datos Categóricos",
+            "Carreras": [
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Administrador de Diccionarios de Datos",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Uso de LLMs para masificar la explotación de datos en Falp",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Atlas/Bitácora de Casos Oncológicos Complejos",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos",
+                "Otras"
+            ]
+        },
+        {
+            "Titulo": "Sistema para el control y mejora de la limpieza industrial bajo correa transportadora en minería para contratos de aseo industrial NEXXO",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Sistema para la limpieza automatizada de riel de Tripper minero",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Mecánica",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Simulación y control de las velocidades de la solución química al interior de los paneles de tubos de calderas para una limpieza química",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Química"
+            ]
+        },
+        {
+            "Titulo": "Modelo de control de consumo EPP y ropa de trabajo para la circularidad de elementos en desuso",
+            "Carreras": [
+                "Ingeniería Civil Ambiental",
+                "Ingeniería Civil Industrial",
+                "Ingeniería Comercial"
+            ]
+        },
+        {
+            "Titulo": "Clasificación de imágenes de mamografía usando Machine Learning",
+            "Carreras": [
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Sistema de Localización en Tiempo Real (RTLS) de pacientes dentro de una clínica basado en machine learning",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Eléctrica",
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Modelo Acústico de Lenguaje Natural (NLP) Para Conversaciones Oncológicas de Salud",
+            "Carreras": [
+                "Ingeniería Civil",
+                "Ingeniería Civil Eléctrica",
+                "Ingeniería Civil Electrónica",
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Desarrollar un sistema de correlación de datos de diversas plataformas de seguridad para identificar patrones y relaciones entre eventos aparentemente no relacionados y estimar riesgos de ciberseguridad",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática"
+            ]
+        },
+        {
+            "Titulo": "Implementar un sistema de revision y generación de informes automatizados que resuma el estado de seguridad de la red, incluyendo recomendaciones para mejoras.",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática",
+                "Ingeniería en Diseño de Productos"
+            ]
+        },
+        {
+            "Titulo": "Implementacion de sistema que permita gestionar incidentes de ciberseguridad",
+            "Carreras": [
+                "Ingeniería Civil Informática",
+                "Ingeniería Civil Matemática",
+                "Ingeniería Civil Telemática"
+            ]
+        }
+    ],
+    "carreras": [
+        {
+            "Nombre": "Arquitectura",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Construcción Civil",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Ambiental",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil de Minas",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Eléctrica",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Electrónica",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Industrial",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Informática",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Matemática",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Mecánica",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Metalúrgica",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Química",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería Civil Telemática",
+            "Maximo": 3
+        },
+        {
+            "Nombre": "Ingeniería Comercial",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Ingeniería en Diseño de Productos",
+            "Maximo": 1
+        },
+        {
+            "Nombre": "Otras",
+            "Maximo": 1
+        }
+    ]
+}
